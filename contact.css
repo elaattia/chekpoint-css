@@ -1,0 +1,11 @@
+.name{
+    color: gris;
+}
+h1{
+    margin-left: 50px;
+}
+body{
+    background-image:url('im.jfif') ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}

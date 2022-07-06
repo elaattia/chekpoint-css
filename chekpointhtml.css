@@ -1,0 +1,40 @@
+body{
+    background-image: url('bk.webp');
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.nom{
+    color:blueviolet"
+}
+li{
+    margin-left: 85px;
+  
+    list-style: none;
+    display: inline;
+}
+ul{
+    
+    margin-left: 70px;
+}
+.home{
+    color: red;
+}
+.about{
+    color: red;
+}
+.resume{
+    color: red;
+}
+.contact{
+    color: red;
+}
+header{
+    padding-bottom: 50px;
+}
+nav{
+    padding-top: 150px;
+    padding-bottom: 70px;
+}
+footer{
+    color:green ;
+}
